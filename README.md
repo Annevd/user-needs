@@ -9,8 +9,6 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/us
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
@@ -51,16 +49,32 @@ Elke week ontwerp en maak je een creatieve oplossing, welke je op vrijdag gaat t
 
 - [Livelink](https://velvety-crostata-06838d.netlify.app/)
 
+## Creative Coding Spike 2: View transition
+<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+**Prompt:** _Crazy retro line art view transition_
+
+Wanneer je naar een nieuwe pagina navigeert, komt er een view transition met een retro line view transition.
+
+![VIEW-TRANSITION-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/96a683c9-48b7-4116-8dbb-9439af6befed)
+
+- [Livelink](https://retro-line-view-transition.netlify.app/)
+
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 **Scroll driven animation:**
 
 Voor de scroll driven animations maak ik gebruik van de scroll driven animation API met `scroll()` en `view()`.
 
+**View Transition:**
+
+Voor de view transition gebruik ik de view t ransition API, en maak ik gebruik van `::view-transition-group` om de keyframe animaties af te spelen. Deze zet ik in een `@media (prefers-reduced-motion: no-preference)`. Ook gebruik de `import { onNavigate } from '$app/navigation';` van Svelte.
+
 
 ## Bronnen
 - [Link naar mijn scroll driven animation branch](https://github.com/fdnd-agency/buurtcampus-oost/tree/post-apocalyptic-scroll-animation)
 - [Link naar ontwerp scroll driven animation](https://www.figma.com/design/QN0rBXQ6Vd38Y6g6zX2jkl/Untitled?node-id=13-229&t=ere02MrOJ84cjzWs-1)
+- [Link naar mijn view transititon branch](https://github.com/fdnd-agency/buurtcampus-oost/tree/crazy-retro-line-view-transition)
+- [Link naar ontwerp view transition](https://www.figma.com/design/QN0rBXQ6Vd38Y6g6zX2jkl/Creative-Coding?node-id=45-2&t=zmlzRguFkBVEcQJI-1)
 
 ## Licentie
 
