@@ -55,9 +55,17 @@ Elke week ontwerp en maak je een creatieve oplossing, welke je op vrijdag gaat t
 
 Wanneer je naar een nieuwe pagina navigeert, komt er een view transition met een retro line view transition.
 
-![VIEW-TRANSITION-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/96a683c9-48b7-4116-8dbb-9439af6befed)
+![VIEW-TRANSITION-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/ba2eef97-9904-4f01-b70b-9ec5c79ac137)
 
 - [Livelink](https://retro-line-view-transition.netlify.app/)
+
+## Creative Coding Spike 3: Kerstsfeer
+
+**Prompt:** _Grunge kerstsfeer met alle toeters en bellen_
+
+![Bezigmetopnemen2024-12-18135947-Trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ff220518-e184-4a20-b9e4-0467d68519bc)
+
+- [Livelink](https://grunge-kerstsfeer.netlify.app/)
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
@@ -75,6 +83,8 @@ Voor de view transition gebruik ik de view t ransition API, en maak ik gebruik v
 - [Link naar ontwerp scroll driven animation](https://www.figma.com/design/QN0rBXQ6Vd38Y6g6zX2jkl/Untitled?node-id=13-229&t=ere02MrOJ84cjzWs-1)
 - [Link naar mijn view transititon branch](https://github.com/fdnd-agency/buurtcampus-oost/tree/crazy-retro-line-view-transition)
 - [Link naar ontwerp view transition](https://www.figma.com/design/QN0rBXQ6Vd38Y6g6zX2jkl/Creative-Coding?node-id=45-2&t=zmlzRguFkBVEcQJI-1)
+- [Link naar mijn kertsfeer branch](https://github.com/fdnd-agency/buurtcampus-oost/tree/grunge-kerstsfeer)
+- [Link naar ontwerp kerstsfeer](https://www.figma.com/design/QN0rBXQ6Vd38Y6g6zX2jkl/Creative-Coding?node-id=96-2&t=dowrhtarBQeQAM0D-1)
 
 ## Licentie
 
