@@ -7,7 +7,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/us
 
 ## Inhoudsopgave
 
-  * [Beschrijving](#beschrijving)
+  * [Werkwijze](#werkwijze)
   * [Kenmerken](#kenmerken)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
@@ -80,6 +80,9 @@ Voor de scroll driven animations maak ik gebruik van de scroll driven animation 
 
 Voor de view transition gebruik ik de view t ransition API, en maak ik gebruik van `::view-transition-group` om de keyframe animaties af te spelen. Deze zet ik in een `@media (prefers-reduced-motion: no-preference)`. Ook gebruik de `import { onNavigate } from '$app/navigation';` van Svelte.
 
+**Kerstsfeer:**
+
+Om de website kerstig te maken heb ik met WebGL een sneeuw shader toegevoegd. Ook heb ik met een scroll-driven animation de trein laten bewegen.
 
 ## Bronnen
 - [Link naar mijn scroll driven animation branch](https://github.com/fdnd-agency/buurtcampus-oost/tree/post-apocalyptic-scroll-animation)
