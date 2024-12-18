@@ -63,6 +63,9 @@ Wanneer je naar een nieuwe pagina navigeert, komt er een view transition met een
 
 **Prompt:** _Grunge kerstsfeer met alle toeters en bellen_
 
+- Onderaan de pagina rijdt een trein wanneer je scrolt
+- Het sneeuwt op de pagina
+  
 ![Bezigmetopnemen2024-12-18135947-Trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ff220518-e184-4a20-b9e4-0467d68519bc)
 
 - [Livelink](https://grunge-kerstsfeer.netlify.app/)
