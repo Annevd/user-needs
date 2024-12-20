@@ -68,7 +68,9 @@ Wanneer je naar een nieuwe pagina navigeert, komt er een view transition met een
   
 ![Bezigmetopnemen2024-12-18135947-Trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ff220518-e184-4a20-b9e4-0467d68519bc)
 
-- [Livelink](https://grunge-kerstsfeer.netlify.app/)
+<!-- - [Livelink](https://grunge-kerstsfeer.netlify.app/) -->
+
+[Livelink](http://localhost:5173/)
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
